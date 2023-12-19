@@ -26,5 +26,5 @@ function copyPassword() {
    passwordBox.select()
    document.execCommand('copy')
 
-   alert('You coppied this password')
+   alert('You copied this password')
 }
